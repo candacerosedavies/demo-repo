@@ -6,7 +6,6 @@ Some description!
 
 Watch tutorial on YouTube.
 
-## local development
+## tutorial v2
 
-1. Open index.html in your browser.
-2. Go for your life!
+1. open index.html in browser
